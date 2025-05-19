@@ -1,1 +1,3 @@
 # GLOBAL-SUPER-STORE-DATA-ANALYSIS
+
+In this project, I developed a comprehensive, interactive dashboard to analyze and visualize sales data for a retail business, Global Super Store. The goal was to enable business stakeholders to track performance metrics, identify sales trends, and gain actionable insights to optimize decision-making processes. The dataset included detailed sales information such as order dates, sales by sub product categories and customers demography. By leveraging Power BI's advanced features, I was able to deliver a dynamic reporting solution that transformed raw data into meaningful visual insights.
